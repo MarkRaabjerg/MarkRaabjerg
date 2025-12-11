@@ -8,3 +8,16 @@
   <h2 style="color: #000000; margin-top: 0;">About</h2>
   <p style="color: #000000; line-height: 1.6;">Hi there, I’m a master’s student and Research Assistant at Aarhus University, working in the Pervasive Systems Research Group. I focus on combining IoT with app development.</p>
 </div>
+
+<div style="margin-top: 30px; padding: 20px; border-radius: 8px;">
+  <h2 style="color: #000000; margin-top: 0;">Daily Tools</h2>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,dotnet,git" alt="Languages" />
+  </p>
+</div>
+
+<div style="margin-top: 30px; padding: 20px; border-radius: 8px;">
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkRaabjerg&theme=transparent" alt="GitHub Profile Summary" />
+  </p>
+</div>
