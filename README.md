@@ -21,3 +21,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkRaabjerg&theme=transparent" alt="GitHub Profile Summary" />
   </p>
 </div>
+
+[![Views](https://komarev.com/ghpvc/?username=MarkRaabjerg&color=blue)](https://github.com/MarkRaabjerg)
+
+![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202025-blue)
